@@ -1,4 +1,4 @@
 #!/bin/bash
 
-
-# git clone https://github.com/facebookresearch/fastText.git && cd fastText && make && make install
+mkdir -p /home/jovyan/.local/bin/
+# git clone https://github.com/facebookresearch/fastText.git && cd fastText && make && mv fasttext  /home/jovyan/.local/bin/
