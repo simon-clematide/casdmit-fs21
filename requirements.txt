@@ -1,0 +1,7 @@
+sklearn
+pyLDAvis
+jupyter
+jupyter
+# we need the newest version for get_nearest_neighbors
+git+git://github.com/facebookresearch/fastText.git#egg=fasttext
+
