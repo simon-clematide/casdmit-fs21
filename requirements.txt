@@ -1,4 +1,4 @@
-sklearn
+scikit-learn
 pyLDAvis
 jupyter
 ipython==7.10.0
