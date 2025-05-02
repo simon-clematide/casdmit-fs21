@@ -3,5 +3,4 @@ pyLDAvis
 jupyter
 ipython==7.10.0
 # we need the newest version for get_nearest_neighbors
-git+https://github.com/facebookresearch/fastText.git@b64e359d5485dda4b4b5074494155d18e25c8d13
-
+fasttext
